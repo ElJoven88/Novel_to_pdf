@@ -1,4 +1,3 @@
 # Novel_to_pdf
-As stated in the description, this is a quick and easily customizable web scraping script that gathers novels from websites and compiles them into PDF files.
-
-Every time you read online with ads, you have to click "next chapter," which is annoying. I therefore developed this script. I hope you enjoy it
+This is a web scraping script that collects novel chapters from websites (in this case, https://tales.xperimentalhamid.com/) quickly and easily, and then compiles them into PDF files.
+It is annoying to constantly click "next chapter" when reading online with ads. I created this script as a result. Hope you like it
